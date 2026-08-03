@@ -1,7 +1,7 @@
-# Hi there, I'm Mechat Mehdi
+# Greetings!, I'm Mechat Mehdi
 
 ### About Me
-I am a software engineer and full-stack developer specializing in building production-grade mobile and web applications. I hold a degree in Information Systems and Software Engineering (ISIL) from USTHB, combining a rigorous academic foundation with extensive hands-on industry experience.
+I am a software engineer and full-stack developer specializing in building production-grade mobile and web applications and even desktop apps. I hold a degree in Information Systems and Software Engineering (ISIL) from USTHB, combining a rigorous academic foundation with extensive hands-on industry experience, and for my master's i have specialized in software engineering field along with AI.
 
 As a startup founder and lead developer of an officially incubated product, I have practical experience guiding applications from initial architectural design to deployment. My technical expertise spans backend engineering with Node.js, Express, and PostgreSQL (utilizing Redis for performance and queuing), alongside cross-platform frontend development using React, React Native, and Flutter.
 
@@ -57,23 +57,17 @@ Driven by a passion for efficiency, I actively leverage advanced AI workflows an
 
 ### GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MechatMehdi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Mechat's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MechatMehdi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-</p>
+![Mechat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MechatMehdi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MechatMehdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=MechatMehdi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" width="49%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MechatMehdi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MechatMehdi&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MechatMehdi&icon=0&color=3" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=MechatMehdi&color=blue&style=flat-square)
